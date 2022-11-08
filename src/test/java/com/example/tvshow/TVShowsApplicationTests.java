@@ -1,10 +1,10 @@
-package com.example.javabelt;
+package com.example.tvshow;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class JavaBeltApplicationTests {
+class TVShowsApplicationTests {
 
 	@Test
 	void contextLoads() {
