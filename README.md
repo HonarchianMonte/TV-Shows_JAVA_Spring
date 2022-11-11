@@ -51,4 +51,3 @@ https://youtu.be/4_u89sbNwB8
 - Allow users to rate other entries to form an average.
 - Implement review section by other users on a show.
 - Add a like/dislike counter on the dashboard next to each show.
-- 
